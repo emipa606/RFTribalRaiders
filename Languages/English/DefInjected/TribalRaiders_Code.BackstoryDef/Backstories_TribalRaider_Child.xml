@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TribalRaiderChild01.title>Nomad child</TribalRaiderChild01.title>
+  <TribalRaiderChild01.titleShort>Nomad child</TribalRaiderChild01.titleShort>
+  <TribalRaiderChild01.baseDesc>[PAWN_nameDef] was born into a nomadic family of caravan traders. [PAWN_possessive] father, the caravan leader, taught [PAWN_objective] the caravan trade. Because [PAWN_pronoun] was able to barter or hunt for all of [PAWN_possessive] food, [PAWN_pronoun] never had to worry about growing or gathering food.</TribalRaiderChild01.baseDesc>
+
+  <TribalRaiderChild02.title>Caravan straggler</TribalRaiderChild02.title>
+  <TribalRaiderChild02.titleShort>Straggler</TribalRaiderChild02.titleShort>
+  <TribalRaiderChild02.baseDesc>Growing up in a large nomadic tribal caravan, [PAWN_nameDef] often strayed behind the group, leaving [PAWN_objective] to explore...and get into trouble. </TribalRaiderChild02.baseDesc>
+
+  <TribalRaiderChild03.title>Trampled child</TribalRaiderChild03.title>
+  <TribalRaiderChild03.titleShort>Trampled child</TribalRaiderChild03.titleShort>
+  <TribalRaiderChild03.baseDesc>As a young child, [PAWN_nameDef] was caught in a muffalo stampede and was nearly crushed to death. [PAWN_pronoun] survived, but now [PAWN_pronoun] has an extreme fear of animals. While recuperating from [PAWN_possessive] many injuries, [PAWN_pronoun] discovered [PAWN_pronoun] had a talent for healing and art.</TribalRaiderChild03.baseDesc>
+
+  <TribalRaiderChild04.title>Hunter child</TribalRaiderChild04.title>
+  <TribalRaiderChild04.titleShort>Hunter child</TribalRaiderChild04.titleShort>
+  <TribalRaiderChild04.baseDesc>From a young age, [PAWN_nameDef] followed [PAWN_possessive] father on hunting trips, learning to track and trap the most elusive of animals.</TribalRaiderChild04.baseDesc>
+
+  <TribalRaiderChild05.title>Healer child</TribalRaiderChild05.title>
+  <TribalRaiderChild05.titleShort>Healer child</TribalRaiderChild05.titleShort>
+  <TribalRaiderChild05.baseDesc>From a young age, [PAWN_nameDef] followed [PAWN_possessive] tribe's elder healer, learning to scrounge up herbs and mineral compounds from the nearby area to use in surprisingly effective remedies.</TribalRaiderChild05.baseDesc>
+
+  <TribalRaiderChild06.title>Captive child</TribalRaiderChild06.title>
+  <TribalRaiderChild06.titleShort>Captive</TribalRaiderChild06.titleShort>
+  <TribalRaiderChild06.baseDesc>As a youg child, [PAWN_nameDef] was taken captive by an enemy tribe during a raid. [PAWN_pronoun] was forced to do hard manual labour. Over time [PAWN_possessive] new tribe became like family, and eventually, [PAWN_pronoun] was adopted as one of their own.</TribalRaiderChild06.baseDesc>
+
+  <TribalRaiderChild07.title>Mute</TribalRaiderChild07.title>
+  <TribalRaiderChild07.titleShort>Mute</TribalRaiderChild07.titleShort>
+  <TribalRaiderChild07.baseDesc>[PAWN_nameDef] was greatly affected by a traumatic event early in [PAWN_possessive] life. For many years [PAWN_pronoun] refused to speak to anyone, preferring instead to spend time with [PAWN_possessive] tribe's animals.</TribalRaiderChild07.baseDesc>
+
+  <TribalRaiderChild08.title>Fire-scarred child</TribalRaiderChild08.title>
+  <TribalRaiderChild08.titleShort>Scarred child</TribalRaiderChild08.titleShort>
+  <TribalRaiderChild08.baseDesc>[PAWN_nameDef] was an active child who lived an uneventful childhood until [PAWN_pronoun] fell into a fire and suffered horrific burns to [PAWN_possessive] hands and arms. Although the scars have faded, [PAWN_pronoun] still can't bear to be in close proximity to fire.</TribalRaiderChild08.baseDesc>
+
+  <TribalRaiderChild09.title>Plague survivor</TribalRaiderChild09.title>
+  <TribalRaiderChild09.titleShort>Plague survivor</TribalRaiderChild09.titleShort>
+  <TribalRaiderChild09.baseDesc>[PAWN_nameDef]'s entire tribe was wiped out by a mysterious disease. Found alone and adopted by another band, [PAWN_pronoun] never became close with other tribe members. [PAWN_pronoun] preferred to stay away from [PAWN_possessive] new home, wandering the woods and tending the animals.</TribalRaiderChild09.baseDesc>
+
+  <TribalRaiderChild10.title>Feral child</TribalRaiderChild10.title>
+  <TribalRaiderChild10.titleShort>Feral child</TribalRaiderChild10.titleShort>
+  <TribalRaiderChild10.baseDesc>[PAWN_nameDef] was discarded by [PAWN_possessive] family. Raised by wolves, [PAWN_pronoun] ran, hunted, and defended [PAWN_possessive] pack. [PAWN_pronoun] learned to fight efficiently by tooth and claw. [PAWN_pronoun] also learned brutally effective primal hunting strategies.</TribalRaiderChild10.baseDesc>
+
+  <TribalRaiderChild11.title>Cursed child</TribalRaiderChild11.title>
+  <TribalRaiderChild11.titleShort>Cursed child</TribalRaiderChild11.titleShort>
+  <TribalRaiderChild11.baseDesc>[PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care. [PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people.</TribalRaiderChild11.baseDesc>
+
+  <TribalRaiderChild12.title>Dreamer</TribalRaiderChild12.title>
+  <TribalRaiderChild12.titleShort>Dreamer</TribalRaiderChild12.titleShort>
+  <TribalRaiderChild12.baseDesc>Since [PAWN_possessive] father was often away, [PAWN_nameDef] took on much responsibility around [PAWN_possessive] home. [PAWN_pronoun] learned the value of hard work, but never really had a childhood. Every day, [PAWN_nameDef] dreamed of leaving [PAWN_possessive] home and exploring the world.</TribalRaiderChild12.baseDesc>
+
+  <TribalRaiderChild13.title>Mechanoid survivor</TribalRaiderChild13.title>
+  <TribalRaiderChild13.titleShort>Mech survivor</TribalRaiderChild13.titleShort>
+  <TribalRaiderChild13.baseDesc>[PAWN_nameDef] and [PAWN_possessive] family grew up in a large and prosperous tribe. One day, though, a group of mechanoids attacked, killing everyone aside from [PAWN_nameDef]. [PAWN_pronoun] then lived alone in the wild until a group of tribal raiders found [PAWN_objective].</TribalRaiderChild13.baseDesc>
+
+  <TribalRaiderChild14.title>Tribal orphan</TribalRaiderChild14.title>
+  <TribalRaiderChild14.titleShort>Orphan</TribalRaiderChild14.titleShort>
+  <TribalRaiderChild14.baseDesc>[PAWN_nameDef] grew up without parents. [PAWN_possessive] whole life was spent alone, fighting for survival in the wild. No matter how hard it became to survive, though, [PAWN_pronoun] never gave up.</TribalRaiderChild14.baseDesc>
+
+  <TribalRaiderChild15.title>Killer</TribalRaiderChild15.title>
+  <TribalRaiderChild15.titleShort>Killer</TribalRaiderChild15.titleShort>
+  <TribalRaiderChild15.baseDesc>[PAWN_nameDef] was a bloodlusting child. Villagers thought [PAWN_objective] the offspring of a snake demon, but the truth was more mundane. At a young age, [PAWN_nameDef] had watched [PAWN_possessive] human father betray and murder [PAWN_possessive] mother, and took it as a lesson to be emulated.</TribalRaiderChild15.baseDesc>
+
+  <TribalRaiderChild16.title>Tribal sculptor</TribalRaiderChild16.title>
+  <TribalRaiderChild16.titleShort>Sculptor</TribalRaiderChild16.titleShort>
+  <TribalRaiderChild16.baseDesc>[PAWN_nameDef] was born into a loving but poor tribe. [PAWN_pronoun] discovered [PAWN_pronoun] had an artistic talent which [PAWN_pronoun] inherited from [PAWN_possessive] father. [PAWN_possessive] mother taught [PAWN_objective] the benefits of hard work and determination. As [PAWN_pronoun] grew older, [PAWN_nameDef] developed a fascination for ancient relics and tribal warfare.</TribalRaiderChild16.baseDesc>
+
+  <TribalRaiderChild17.title>Warrior child</TribalRaiderChild17.title>
+  <TribalRaiderChild17.titleShort>Warrior child</TribalRaiderChild17.titleShort>
+  <TribalRaiderChild17.baseDesc>[PAWN_nameDef]'s tribe forced [PAWN_objective] to train in hand-to-hand combat and fighting tactics. In [PAWN_possessive] own time, [PAWN_pronoun] crafted unique tools. This sharpened [PAWN_possessive] mind.</TribalRaiderChild17.baseDesc>
+
+  <TribalRaiderChild18.title>Avid learner</TribalRaiderChild18.title>
+  <TribalRaiderChild18.titleShort>Learner</TribalRaiderChild18.titleShort>
+  <TribalRaiderChild18.baseDesc>[PAWN_nameDef] was curious about everything. While other children played games, [PAWN_nameDef] pestered the tribal elders and shamans with questions. [PAWN_pronoun] learned all he could about ancient technology, tribal lore, and weapons. But he never learned much about making friends.</TribalRaiderChild18.baseDesc>
+
+  <TribalRaiderChild19.title>Scout child</TribalRaiderChild19.title>
+  <TribalRaiderChild19.titleShort>Scout child</TribalRaiderChild19.titleShort>
+  <TribalRaiderChild19.baseDesc>[PAWN_nameDef]'s parents were tribal scouts. [PAWN_pronoun] learned many survival skills from them, including how to thrive in the outdoors and how to tend to basic wounds.</TribalRaiderChild19.baseDesc>
+
+  <TribalRaiderChild20.title>Tribal thunderer</TribalRaiderChild20.title>
+  <TribalRaiderChild20.titleShort>Thunderer</TribalRaiderChild20.titleShort>
+  <TribalRaiderChild20.baseDesc>Years ago, [PAWN_nameDef]'s tribe stumbled upon an abandoned gun vault. Believing the weapons to be sacred gifts, the shaman would select children born under auspicious circumstances and assign them the honour of bearing one of the weapons in defense of the village. [PAWN_nameDef] was such a child.</TribalRaiderChild20.baseDesc>
+
+  <TribalRaiderChild21.title>War child</TribalRaiderChild21.title>
+  <TribalRaiderChild21.titleShort>War child</TribalRaiderChild21.titleShort>
+  <TribalRaiderChild21.baseDesc>War was a constant state of affairs between [PAWN_nameDef]'s tribe and their neighbors. Growing up surrounded by fighting and death, [PAWN_pronoun] became tough as nails and well accustomed to tragedy. [PAWN_possessive] expressive side, however, never developed.</TribalRaiderChild21.baseDesc>
+
+  <TribalRaiderChild22.title>War refugee</TribalRaiderChild22.title>
+  <TribalRaiderChild22.titleShort>Refugee</TribalRaiderChild22.titleShort>
+  <TribalRaiderChild22.baseDesc>When spacers descended upon [PAWN_possessive] tribal home with their war machines, [PAWN_nameDef] and [PAWN_possessive] father gathered what little food and belongings they could, and escaped into the wilderness.</TribalRaiderChild22.baseDesc>
+
+  <TribalRaiderChild23.title>Sickly child</TribalRaiderChild23.title>
+  <TribalRaiderChild23.titleShort>Sickly child</TribalRaiderChild23.titleShort>
+  <TribalRaiderChild23.baseDesc>[PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents left [PAWN_objective] out in the elements. Somehow, [PAWN_pronoun] survived.</TribalRaiderChild23.baseDesc>
+
+  <TribalRaiderChild24.title>Cave child</TribalRaiderChild24.title>
+  <TribalRaiderChild24.titleShort>Cave child</TribalRaiderChild24.titleShort>
+  <TribalRaiderChild24.baseDesc>[PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves.</TribalRaiderChild24.baseDesc>
+
+  <TribalRaiderChild25.title>Fire tender</TribalRaiderChild25.title>
+  <TribalRaiderChild25.titleShort>Fire tender</TribalRaiderChild25.titleShort>
+  <TribalRaiderChild25.baseDesc>In [PAWN_possessive] childhood, [PAWN_nameDef] was responsible for keeping the tribe's fire going. [PAWN_pronoun] took this responsibility very seriously.</TribalRaiderChild25.baseDesc>
+
+  <TribalRaiderChild26.title>Herder</TribalRaiderChild26.title>
+  <TribalRaiderChild26.titleShort>Herder</TribalRaiderChild26.titleShort>
+  <TribalRaiderChild26.baseDesc>As a child, [PAWN_nameDef] tended the tribe's muffalo herds, keeping them safe from predators and treating the sick. It was quiet work, but [PAWN_pronoun] enjoyed being away from people.</TribalRaiderChild26.baseDesc>
+
+  <TribalRaiderChild27.title>Reclusive child</TribalRaiderChild27.title>
+  <TribalRaiderChild27.titleShort>Recluse</TribalRaiderChild27.titleShort>
+  <TribalRaiderChild27.baseDesc>[PAWN_nameDef] didn't learn to speak until [PAWN_pronoun] was nearly 5 years old, and, even then, [PAWN_pronoun] preferred to keep to [PAWN_objective]self. When [PAWN_pronoun] was in [PAWN_possessive] early teens, [PAWN_pronoun] made a habit of wandering off from the village to live in the wilderness for weeks at a time.</TribalRaiderChild27.baseDesc>
+
+  <TribalRaiderChild28.title>Scavenger</TribalRaiderChild28.title>
+  <TribalRaiderChild28.titleShort>Scavenger</TribalRaiderChild28.titleShort>
+  <TribalRaiderChild28.baseDesc>[PAWN_nameDef] spent [PAWN_possessive] childhood escaping grunt work to go digging through wrecks and ruins for treasures. [PAWN_possessive] natural curiosity got [PAWN_objective] into a lot of trouble, but it also yielded many interesting finds.</TribalRaiderChild28.baseDesc>
+
+  <TribalRaiderChild29.title>Raid survivor</TribalRaiderChild29.title>
+  <TribalRaiderChild29.titleShort>Raid survivor</TribalRaiderChild29.titleShort>
+  <TribalRaiderChild29.baseDesc>[PAWN_nameDef]'s entire tribe was wiped out in a raid. Though [PAWN_pronoun] was adopted by another group, [PAWN_pronoun] was emotionally scarred, and preferred to stay near home, cooking and tending crops.</TribalRaiderChild29.baseDesc>
+
+  <TribalRaiderChild30.title>Tribe child</TribalRaiderChild30.title>
+  <TribalRaiderChild30.titleShort>Tribal child</TribalRaiderChild30.titleShort>
+  <TribalRaiderChild30.baseDesc>[PAWN_nameDef] grew up in the tribe, running around the village, moving with the muffalo herds, learning essential skills from [PAWN_possessive] parents. [PAWN_pronoun] never learned to read and never saw a machine that wasn't an ancient ruin.</TribalRaiderChild30.baseDesc>
+
+  <TribalRaiderChild31.title>Vengeful child</TribalRaiderChild31.title>
+  <TribalRaiderChild31.titleShort>Vengeful child</TribalRaiderChild31.titleShort>
+  <TribalRaiderChild31.baseDesc>As a child, [PAWN_nameDef] returned to [PAWN_possessive] village to find that it had been wiped out by bandits. [PAWN_pronoun] swore revenge on the attackers and began a violent rampage across the wilderness.</TribalRaiderChild31.baseDesc>
+
+  <TribalRaiderChild32.title>Abandoned child</TribalRaiderChild32.title>
+  <TribalRaiderChild32.titleShort>Abandoned child</TribalRaiderChild32.titleShort>
+  <TribalRaiderChild32.baseDesc>[PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents left [PAWN_objective] out in the elements. Somehow, [PAWN_pronoun] survived.</TribalRaiderChild32.baseDesc>
+
+  <TribalRaiderChild33.title>Chief's child</TribalRaiderChild33.title>
+  <TribalRaiderChild33.titleShort>Chief's child</TribalRaiderChild33.titleShort>
+  <TribalRaiderChild33.baseDesc>From a young age, [PAWN_nameDef] was trained to be a tribal leader. [PAWN_pronoun] learned to hunt and fight from the tribe's most skilled hunters and bravest warriors. Due to [PAWN_possessive] prominent position, [PAWN_nameDef] never knew manual labor or learned many skills.</TribalRaiderChild33.baseDesc>
+
+
+</LanguageData>

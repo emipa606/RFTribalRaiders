@@ -546,7 +546,7 @@
     <defName>TribalRaiderAdult20</defName>
     <slot>Adulthood</slot>
     <title>Tribal raider</title>
-    <titleShort>Raider</titleShort>
+    <titleShort>Outlander</titleShort>
     <baseDesc>As a young adult, [PAWN_nameDef] abandoned [PAWN_possessive] tribe and joined a band of raiders. [PAWN_pronoun] found camaraderie amongst its members, even if [PAWN_pronoun] did have to constantly watch [PAWN_possessive] back around them.</baseDesc>
     <skillGains>
       <li>
