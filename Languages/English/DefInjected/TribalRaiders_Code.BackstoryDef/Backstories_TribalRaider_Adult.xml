@@ -1,129 +1,96 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <TribalRaiderAdult01.title>Sole survivor</TribalRaiderAdult01.title>
   <TribalRaiderAdult01.titleShort>Survivor</TribalRaiderAdult01.titleShort>
   <TribalRaiderAdult01.baseDesc>[PAWN_nameDef] lived in a remote tribal village. When mechanoid centipedes attacked [PAWN_possessive] home and killed [PAWN_possessive] people, [PAWN_pronoun] was the last survivor.</TribalRaiderAdult01.baseDesc>
-
   <TribalRaiderAdult02.title>Tribal hunter</TribalRaiderAdult02.title>
   <TribalRaiderAdult02.titleShort>Hunter</TribalRaiderAdult02.titleShort>
   <TribalRaiderAdult02.baseDesc>A proficient hunter and tracker, [PAWN_nameDef] yearned for more. [PAWN_pronoun] took leave from [PAWN_possessive] village, traveling the world in search of exotic game.</TribalRaiderAdult02.baseDesc>
-
   <TribalRaiderAdult03.title>Storyteller</TribalRaiderAdult03.title>
   <TribalRaiderAdult03.titleShort>Storyteller</TribalRaiderAdult03.titleShort>
   <TribalRaiderAdult03.baseDesc>To fill [PAWN_possessive] belly, [PAWN_nameDef] would wander from village to village recounting tribal legends and lore.</TribalRaiderAdult03.baseDesc>
-
   <TribalRaiderAdult04.title>Wandering healer</TribalRaiderAdult04.title>
   <TribalRaiderAdult04.titleShort>Healer</TribalRaiderAdult04.titleShort>
   <TribalRaiderAdult04.baseDesc>[PAWN_nameDef] learned to be a healer, but never gained the respect of [PAWN_possessive] exacting teacher. Chafing under his overbearing tutelage, [PAWN_pronoun] chose to leave the safety of [PAWN_possessive] village and travel the world to seek [PAWN_possessive] fame and fortune.</TribalRaiderAdult04.baseDesc>
-
   <TribalRaiderAdult05.title>War chief</TribalRaiderAdult05.title>
   <TribalRaiderAdult05.titleShort>War chief</TribalRaiderAdult05.titleShort>
   <TribalRaiderAdult05.baseDesc>[PAWN_nameDef] is a tribal raider leader. For [PAWN_objective], the battlefield is a game, and there is nothing more fun than the fires of war.</TribalRaiderAdult05.baseDesc>
-
   <TribalRaiderAdult06.title>Bandit leader</TribalRaiderAdult06.title>
   <TribalRaiderAdult06.titleShort>Bandit</TribalRaiderAdult06.titleShort>
   <TribalRaiderAdult06.baseDesc>[PAWN_nameDef] became proficient at ambushing caravans, eventually becoming the leader of one of the most notorious gangs of tribal raider bandits.</TribalRaiderAdult06.baseDesc>
-
   <TribalRaiderAdult07.title>Tribal faction leader</TribalRaiderAdult07.title>
   <TribalRaiderAdult07.titleShort>Leader</TribalRaiderAdult07.titleShort>
   <TribalRaiderAdult07.baseDesc>Early in [PAWN_possessive] adulthood, [PAWN_nameDef] found [PAWN_objective]self surrounded by a gaggle of tribal low-lifes. Just for fun, [PAWN_pronoun] gathered them together and lead them to certain death. [PAWN_pronoun] knew then that [PAWN_pronoun] had the talent to realize [PAWN_possessive] ambitions of leadership.</TribalRaiderAdult07.baseDesc>
-
   <TribalRaiderAdult08.title>Hermit</TribalRaiderAdult08.title>
   <TribalRaiderAdult08.titleShort>Hermit</TribalRaiderAdult08.titleShort>
   <TribalRaiderAdult08.baseDesc>Separated from [PAWN_possessive] tribe after a disaster, [PAWN_nameDef] found [PAWN_objective]self lost and alone. [PAWN_pronoun] eked out a lonely existence with only a herd of muffalo for company.</TribalRaiderAdult08.baseDesc>
-
   <TribalRaiderAdult09.title>Master trader</TribalRaiderAdult09.title>
   <TribalRaiderAdult09.titleShort>Trader</TribalRaiderAdult09.titleShort>
   <TribalRaiderAdult09.baseDesc>[PAWN_nameDef] is a master at trading, known for [PAWN_possessive] ruthless bargaining skills.</TribalRaiderAdult09.baseDesc>
-
   <TribalRaiderAdult10.title>Raider chief</TribalRaiderAdult10.title>
   <TribalRaiderAdult10.titleShort>Raider chief</TribalRaiderAdult10.titleShort>
   <TribalRaiderAdult10.baseDesc>After joining a tribal raider faction, [PAWN_nameDef]'s charismatic yet cunning nature allowed [PAWN_objective] to win over [PAWN_possessive] fellow raiders and usurp the leader's position as raider chief. [PAWN_possessive] band of raiders has gained notoriety across the world.</TribalRaiderAdult10.baseDesc>
-
   <TribalRaiderAdult11.title>Ruthless tribal raider</TribalRaiderAdult11.title>
   <TribalRaiderAdult11.titleShort>Ruthless raider</TribalRaiderAdult11.titleShort>
   <TribalRaiderAdult11.baseDesc>Captured by a band of tribal raiders, [PAWN_nameDef] discovered that [PAWN_pronoun] fit in perfectly with [PAWN_possessive] captors. Shortly after becoming one of the tribe, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way... including [PAWN_possessive] fellow raiders.</TribalRaiderAdult11.baseDesc>
-
   <TribalRaiderAdult12.title>Tribal raider chief</TribalRaiderAdult12.title>
   <TribalRaiderAdult12.titleShort>Raider chief</TribalRaiderAdult12.titleShort>
   <TribalRaiderAdult12.baseDesc>As a tribal raider chief, [PAWN_nameDef] is well-known for [PAWN_possessive] cunning plans and skillful traps. [PAWN_pronoun] is never afraid to sacrifice a few pawns to capture an important target. [PAWN_possessive] name has been linked more than once to strategies that overcame overwhelming odds.</TribalRaiderAdult12.baseDesc>
-
   <TribalRaiderAdult13.title>Vengeful chief</TribalRaiderAdult13.title>
   <TribalRaiderAdult13.titleShort>Vengeful chief</TribalRaiderAdult13.titleShort>
   <TribalRaiderAdult13.baseDesc>[PAWN_nameDef] was a proud tribal raider chief, until [PAWN_pronoun] was ousted from [PAWN_possessive] position by a mutinous rebellion. Lucky to escape with [PAWN_possessive] life, [PAWN_pronoun] vowed to seek revenge and regain [PAWN_possessive] position.</TribalRaiderAdult13.baseDesc>
-
   <TribalRaiderAdult14.title>Captured tribal raider</TribalRaiderAdult14.title>
   <TribalRaiderAdult14.titleShort>Captured raider</TribalRaiderAdult14.titleShort>
   <TribalRaiderAdult14.baseDesc>During a raid, [PAWN_nameDef] was captured by tribal raiders. Starting as nothing more than a slave, [PAWN_pronoun] rose quickly among the raider ranks until all knew [PAWN_possessive] name and [PAWN_possessive] ruthlessness.</TribalRaiderAdult14.baseDesc>
-
   <TribalRaiderAdult15.title>Shaman of shadows</TribalRaiderAdult15.title>
   <TribalRaiderAdult15.titleShort>Shaman</TribalRaiderAdult15.titleShort>
   <TribalRaiderAdult15.baseDesc>When the monsters of fire came from the sky, [PAWN_nameDef] was called upon by [PAWN_possessive] tribe to guide them into battle. [PAWN_nameDef] made use of medicines and rituals to inspire and lead the warriors against the invaders. Despite their superior technology, the pirates were forced to retreat without capturing a single slave.</TribalRaiderAdult15.baseDesc>
-
   <TribalRaiderAdult16.title>Tribal wanderer</TribalRaiderAdult16.title>
   <TribalRaiderAdult16.titleShort>Wanderer</TribalRaiderAdult16.titleShort>
   <TribalRaiderAdult16.baseDesc>A violent drifter without a home, [PAWN_nameDef] fought in many wars and battles. [PAWN_pronoun] became a grizzled warrior and a deadly shot.</TribalRaiderAdult16.baseDesc>
-
   <TribalRaiderAdult17.title>Wandering crafter</TribalRaiderAdult17.title>
   <TribalRaiderAdult17.titleShort>Crafter</TribalRaiderAdult17.titleShort>
   <TribalRaiderAdult17.baseDesc>[PAWN_nameDef] followed [PAWN_possessive] parents' nomadic ways, supporting [PAWN_objective]self with [PAWN_possessive] crafting skills. But wandering is a hard life, and [PAWN_pronoun] often thought of finding somewhere to settle down and put [PAWN_possessive] skills to good use.</TribalRaiderAdult17.baseDesc>
-
   <TribalRaiderAdult18.title>Banished warrior</TribalRaiderAdult18.title>
   <TribalRaiderAdult18.titleShort>Banished warrior</TribalRaiderAdult18.titleShort>
   <TribalRaiderAdult18.baseDesc>Accused of murdering a prominent tribal elder, [PAWN_nameDef] was banished from [PAWN_possessive] tribe. Rumors of [PAWN_possessive] crime followed [PAWN_objective], and no other tribe would accept [PAWN_objective]. Forced to wander the world, [PAWN_pronoun] supported [PAWN_objective]self as he could with [PAWN_possessive] crafting or [PAWN_possessive] combat skills. But wandering is a hard life, and [PAWN_pronoun] often dreamed of finding a tribe that would welcome [PAWN_objective] permanently.</TribalRaiderAdult18.baseDesc>
-
   <TribalRaiderAdult19.title>Thief</TribalRaiderAdult19.title>
   <TribalRaiderAdult19.titleShort>Thief</TribalRaiderAdult19.titleShort>
   <TribalRaiderAdult19.baseDesc>[PAWN_nameDef] was caught stealing from a respected shaman and banished from the tribe. [PAWN_pronoun] joined a tribe of raiders and adopted their brutal ways. Knowing that showing weakness could be fatal, [PAWN_pronoun] closed [PAWN_objective]self off to others.</TribalRaiderAdult19.baseDesc>
-
   <TribalRaiderAdult20.title>Tribal raider</TribalRaiderAdult20.title>
   <TribalRaiderAdult20.titleShort>Raider</TribalRaiderAdult20.titleShort>
   <TribalRaiderAdult20.baseDesc>As a young adult, [PAWN_nameDef] abandoned [PAWN_possessive] tribe and joined a band of raiders. [PAWN_pronoun] found camaraderie amongst its members, even if [PAWN_pronoun] did have to constantly watch [PAWN_possessive] back around them.</TribalRaiderAdult20.baseDesc>
-
   <TribalRaiderAdult21.title>Loner</TribalRaiderAdult21.title>
   <TribalRaiderAdult21.titleShort>Loner</TribalRaiderAdult21.titleShort>
   <TribalRaiderAdult21.baseDesc>[PAWN_nameDef] never much liked the tribal council or the yearly festivals. [PAWN_pronoun] prefers the open plain and the lonely whistle of wind through the rocks. [PAWN_pronoun] visits [PAWN_possessive] tribe from time to time, but for the most part [PAWN_pronoun] takes care of [PAWN_objective]self using [PAWN_possessive] own survival skills.</TribalRaiderAdult21.baseDesc>
-
   <TribalRaiderAdult22.title>Scout</TribalRaiderAdult22.title>
   <TribalRaiderAdult22.titleShort>Scout</TribalRaiderAdult22.titleShort>
   <TribalRaiderAdult22.baseDesc>Since [PAWN_possessive] tribe has made contact with local outlanders, [PAWN_nameDef] has contracted [PAWN_possessive] services out as a guide to the local area. Frequent contact with ancient relics has made [PAWN_objective] fairly comfortable with the old technology.</TribalRaiderAdult22.baseDesc>
-
   <TribalRaiderAdult23.title>Warrior</TribalRaiderAdult23.title>
   <TribalRaiderAdult23.titleShort>Warrior</TribalRaiderAdult23.titleShort>
   <TribalRaiderAdult23.baseDesc>[PAWN_nameDef] is a fearsome warrior, proficient with many weapons. [PAWN_pronoun] has participated in many battles.</TribalRaiderAdult23.baseDesc>
-
   <TribalRaiderAdult24.title>Gatherer</TribalRaiderAdult24.title>
   <TribalRaiderAdult24.titleShort>Gatherer</TribalRaiderAdult24.titleShort>
   <TribalRaiderAdult24.baseDesc>[PAWN_nameDef] is a master gatherer. [PAWN_pronoun] can find food in the most barren of places using [PAWN_possessive] deep knowledge of plants, roots, and berries.</TribalRaiderAdult24.baseDesc>
-
   <TribalRaiderAdult25.title>Lore keeper</TribalRaiderAdult25.title>
   <TribalRaiderAdult25.titleShort>Keeper</TribalRaiderAdult25.titleShort>
   <TribalRaiderAdult25.baseDesc>[PAWN_nameDef] is one of a long line of lore keepers in [PAWN_possessive] tribe. Every night around the fire, [PAWN_pronoun] passes on ancient knowledge and helpful wisdom through stories, all designed to improve [PAWN_possessive] tribe's raiding.</TribalRaiderAdult25.baseDesc>
-
   <TribalRaiderAdult26.title>Weaver</TribalRaiderAdult26.title>
   <TribalRaiderAdult26.titleShort>Weaver</TribalRaiderAdult26.titleShort>
   <TribalRaiderAdult26.baseDesc>[PAWN_nameDef] is an expert at working muffalo wool, plant fibres and natural dyes into beautiful clothing for [PAWN_possessive] kin. [PAWN_possessive] beautiful handicrafts are traded frequently between local tribes, and then often stolen back to be sold or traded again.</TribalRaiderAdult26.baseDesc>
-
   <TribalRaiderAdult27.title>Caravan leader</TribalRaiderAdult27.title>
   <TribalRaiderAdult27.titleShort>Caravan leader</TribalRaiderAdult27.titleShort>
   <TribalRaiderAdult27.baseDesc>[PAWN_nameDef] is the leader of a tribal trade caravan. Due to [PAWN_possessive] nomadic lifestyle, [PAWN_pronoun] hunts, barters, and sometimes raids for [PAWN_possessive] food.</TribalRaiderAdult27.baseDesc>
-
   <TribalRaiderAdult28.title>Caravan member</TribalRaiderAdult28.title>
   <TribalRaiderAdult28.titleShort>Nomad</TribalRaiderAdult28.titleShort>
   <TribalRaiderAdult28.baseDesc>[PAWN_nameDef] is a member of a nomadic tribal trade caravan. [PAWN_pronoun] is often tasked with caring for the pack animals. Because [PAWN_pronoun] is able to barter or hunt for all of [PAWN_possessive] food, [PAWN_pronoun] never has to worry about growing or gathering food.</TribalRaiderAdult28.baseDesc>
-
   <TribalRaiderAdult29.title>Carver</TribalRaiderAdult29.title>
   <TribalRaiderAdult29.titleShort>Carver</TribalRaiderAdult29.titleShort>
   <TribalRaiderAdult29.baseDesc>[PAWN_nameDef] is an expert at carving wood, stone, and bone into beautiful tools and art objects for [PAWN_possessive] tribe. [PAWN_possessive] beautiful handicrafts are traded frequently between local tribes, then often stolen back to be sold or traded again.</TribalRaiderAdult29.baseDesc>
-
   <TribalRaiderAdult30.title>Tribal drummer</TribalRaiderAdult30.title>
   <TribalRaiderAdult30.titleShort>Drummer</TribalRaiderAdult30.titleShort>
   <TribalRaiderAdult30.baseDesc>[PAWN_nameDef] is a drummer for [PAWN_possessive] tribe. [PAWN_pronoun] performs songs for ceremonies and festivals, but specializes in war chants.</TribalRaiderAdult30.baseDesc>
-
   <TribalRaiderAdult31.title>Tribal captive</TribalRaiderAdult31.title>
   <TribalRaiderAdult31.titleShort>Captive</TribalRaiderAdult31.titleShort>
   <TribalRaiderAdult31.baseDesc>[PAWN_nameDef] was taken captive by an enemy tribe during a raid. [PAWN_pronoun] was forced to do hard manual labour. Over time [PAWN_possessive] new tribe has become like family. [PAWN_pronoun] has begun to raid with them, and hopes to be adopted as one of their own.</TribalRaiderAdult31.baseDesc>
-
-
 </LanguageData>

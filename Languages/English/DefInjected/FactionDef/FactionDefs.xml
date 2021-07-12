@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <TribalRaiders.label>tribal raiders</TribalRaiders.label>
   <TribalRaiders.description>A gang of tribal raiders.\n\nTribal raiders don't sow, they don't build, and they rarely trade. They enrich themselves mostly by raiding and robbing the more productive groups in the area.\n\nTheir technology level is neolithic, but their thirst for blood is legendary.</TribalRaiders.description>
   <TribalRaiders.pawnsPlural>raiders</TribalRaiders.pawnsPlural>
   <TribalRaiders.leaderTitle>raider chief</TribalRaiders.leaderTitle>
-
-
 </LanguageData>
