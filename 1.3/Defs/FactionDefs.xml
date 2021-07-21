@@ -9,6 +9,7 @@
     <listOrderPriority>10</listOrderPriority>
     <settlementGenerationWeight>1</settlementGenerationWeight>
     <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>9999</maxConfigurableAtWorldCreation>
     <maxCountAtGameStart>2</maxCountAtGameStart>
     <canMakeRandomly>true</canMakeRandomly>
     <canSiege>false</canSiege>
