@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <BackstoryDef>
+  <BackstoryDef Name="TribalRaiderBase" Abstract="True">
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+  </BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult01</defName>
     <slot>Adulthood</slot>
     <title>Sole survivor</title>
@@ -25,11 +29,14 @@
         <value>-3</value>
       </li>
     </skillGains>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult02</defName>
     <slot>Adulthood</slot>
     <title>Tribal hunter</title>
@@ -57,11 +64,14 @@
         <value>3</value>
       </li>
     </skillGains>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult03</defName>
     <slot>Adulthood</slot>
     <title>Storyteller</title>
@@ -93,7 +103,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult04</defName>
     <slot>Adulthood</slot>
     <title>Wandering healer</title>
@@ -117,7 +127,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult05</defName>
     <slot>Adulthood</slot>
     <title>War chief</title>
@@ -143,11 +153,14 @@
     </skillGains>
     <bodyTypeMale>Hulk</bodyTypeMale>
     <bodyTypeFemale>Hulk</bodyTypeFemale>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult06</defName>
     <slot>Adulthood</slot>
     <title>Bandit leader</title>
@@ -171,11 +184,14 @@
       <li>Cleaning</li>
       <li>Intellectual</li>
     </workDisables>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult07</defName>
     <slot>Adulthood</slot>
     <title>Tribal faction leader</title>
@@ -205,8 +221,11 @@
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult08</defName>
     <slot>Adulthood</slot>
     <title>Hermit</title>
@@ -240,7 +259,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult09</defName>
     <slot>Adulthood</slot>
     <title>Master trader</title>
@@ -267,7 +286,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult10</defName>
     <slot>Adulthood</slot>
     <title>Raider chief</title>
@@ -287,13 +306,16 @@
         <value>6</value>
       </li>
     </skillGains>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <bodyTypeMale>Hulk</bodyTypeMale>
     <bodyTypeFemale>Hulk</bodyTypeFemale>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult11</defName>
     <slot>Adulthood</slot>
     <title>Ruthless tribal raider</title>
@@ -317,6 +339,9 @@
       <Psychopath>0
       </Psychopath>
     </forcedTraits>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <bodyTypeMale>Hulk</bodyTypeMale>
     <bodyTypeFemale>Hulk</bodyTypeFemale>
     <workDisables>
@@ -327,7 +352,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult12</defName>
     <slot>Adulthood</slot>
     <title>Tribal raider chief</title>
@@ -347,6 +372,9 @@
         <value>8</value>
       </li>
     </skillGains>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <workDisables>
       <li>ManualDumb</li>
     </workDisables>
@@ -354,7 +382,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult13</defName>
     <slot>Adulthood</slot>
     <title>Vengeful chief</title>
@@ -374,6 +402,9 @@
         <value>-2</value>
       </li>
     </skillGains>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <workDisables>
       <li>ManualDumb</li>
     </workDisables>
@@ -381,7 +412,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult14</defName>
     <slot>Adulthood</slot>
     <title>Captured tribal raider</title>
@@ -408,7 +439,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult15</defName>
     <slot>Adulthood</slot>
     <title>Shaman of shadows</title>
@@ -440,7 +471,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult16</defName>
     <slot>Adulthood</slot>
     <title>Tribal wanderer</title>
@@ -469,7 +500,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult17</defName>
     <slot>Adulthood</slot>
     <title>Wandering crafter</title>
@@ -493,7 +524,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult18</defName>
     <slot>Adulthood</slot>
     <title>Banished warrior</title>
@@ -513,11 +544,14 @@
         <value>6</value>
       </li>
     </skillGains>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult19</defName>
     <slot>Adulthood</slot>
     <title>Thief</title>
@@ -541,7 +575,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult20</defName>
     <slot>Adulthood</slot>
     <title>Tribal raider</title>
@@ -560,8 +594,11 @@
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult21</defName>
     <slot>Adulthood</slot>
     <title>Loner</title>
@@ -593,7 +630,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult22</defName>
     <slot>Adulthood</slot>
     <title>Scout</title>
@@ -620,7 +657,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult23</defName>
     <slot>Adulthood</slot>
     <title>Warrior</title>
@@ -642,11 +679,14 @@
     </skillGains>
     <bodyTypeMale>Hulk</bodyTypeMale>
     <bodyTypeFemale>Hulk</bodyTypeFemale>
+    <requiredWorkTags>
+      <li>Violent</li>
+    </requiredWorkTags>
     <spawnCategories>
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult24</defName>
     <slot>Adulthood</slot>
     <title>Gatherer</title>
@@ -662,7 +702,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult25</defName>
     <slot>Adulthood</slot>
     <title>Lore keeper</title>
@@ -689,7 +729,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult26</defName>
     <slot>Adulthood</slot>
     <title>Weaver</title>
@@ -709,7 +749,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult27</defName>
     <slot>Adulthood</slot>
     <title>Caravan leader</title>
@@ -737,7 +777,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult28</defName>
     <slot>Adulthood</slot>
     <title>Caravan member</title>
@@ -770,7 +810,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult29</defName>
     <slot>Adulthood</slot>
     <title>Carver</title>
@@ -798,7 +838,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult30</defName>
     <slot>Adulthood</slot>
     <title>Tribal drummer</title>
@@ -817,7 +857,7 @@
       <li>TribalRaider</li>
     </spawnCategories>
   </BackstoryDef>
-  <BackstoryDef>
+  <BackstoryDef ParentName="TribalRaiderBase">
     <defName>TribalRaiderAdult31</defName>
     <slot>Adulthood</slot>
     <title>Tribal captive</title>
