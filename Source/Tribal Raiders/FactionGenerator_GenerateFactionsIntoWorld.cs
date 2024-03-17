@@ -39,13 +39,9 @@ public static class FactionGenerator_GenerateFactionsIntoWorld
         {
             var factionDef = (
                 from fa in DefDatabase<FactionDef>.AllDefs
-                where fa.canMakeRandomly &&
-                      Find.FactionManager.AllFactions.Count(f => f.def == fa) < fa.maxCountAtGameStart
+                where fa.defName is not "OutlanderCivil" and not "OutlanderRough" and not "Pirate" and not "Empire" &&
+                      Find.FactionManager.AllFactions.Count(f => f.def == fa) < fa.maxConfigurableAtWorldCreation
                 select fa).RandomElement();
-            if (factionDef.defName is "OutlanderCivil" or "OutlanderRough" or "Pirate" or "Empire")
-            {
-                continue;
-            }
 
             var faction1 = FactionGenerator.NewGeneratedFaction(new FactionGeneratorParms(factionDef));
             Find.World.factionManager.Add(faction1);
