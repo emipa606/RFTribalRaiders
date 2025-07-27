@@ -2,5 +2,17 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "1",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": false,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 5147,
+  "LinesOfXML": 53236,
+  "CodeBaseSize": 75,
+  "LastXmlCleaning": "2025-07-27T19:05:17.9975827+02:00",
+  "SocialImageSet": true,
+  "SearchTags": [
+    "tribal",
+    " faction"
+  ]
 }

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tribal raiders -->
+  <TribalRaiders.label>tribal raiders</TribalRaiders.label>
+  <!-- EN: A gang of tribal raiders.\n\nTribal raiders don't sow, they don't build, and they rarely trade. They enrich themselves mostly by raiding and robbing the more productive groups in the area.\n\nTheir technology level is neolithic, but their thirst for blood is legendary. -->
+  <TribalRaiders.description>A gang of tribal raiders.
+
+Tribal raiders don't sow, they don't build, and they rarely trade. They enrich themselves mostly by raiding and robbing the more productive groups in the area.
+
+Their technology level is neolithic, but their thirst for blood is legendary.</TribalRaiders.description>
+  <!-- EN: raider chief -->
+  <TribalRaiders.leaderTitle>raider chief</TribalRaiders.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribalRaiders.messageDefendersAttacking>{0} from {1} are attacking your {2}.</TribalRaiders.messageDefendersAttacking>
+  <!-- EN: raider -->
+  <TribalRaiders.pawnSingular>raider</TribalRaiders.pawnSingular>
+  <!-- EN: raiders -->
+  <TribalRaiders.pawnsPlural>raiders</TribalRaiders.pawnsPlural>
+</LanguageData>

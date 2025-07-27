@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using HarmonyLib;
 using RimWorld;
 using RimWorld.Planet;
@@ -6,12 +7,13 @@ using Verse;
 
 namespace TribalRaiders_Code;
 
-[HarmonyPatch(typeof(FactionGenerator), "GenerateFactionsIntoWorld", null)]
-public static class FactionGenerator_GenerateFactionsIntoWorld
+[HarmonyPatch(typeof(FactionGenerator), "GenerateFactionsIntoWorldLayer", typeof(PlanetLayer),
+    typeof(List<FactionDef>))]
+public static class FactionGenerator_GenerateFactionsIntoWorldLayer
 {
     public static bool Prefix()
     {
-        if (!Controller.Settings.tribalPlanet)
+        if (!Controller.Settings.TribalPlanet)
         {
             return true;
         }
